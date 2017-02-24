@@ -11,7 +11,7 @@ A workflow for [Alfred.app](http://www.alfredapp.com/) to control some
 iTunes features that Alfred miniplayer doesn't.
 
 To download it, click
-[here](https://github.com/caiogondim/alfred-itunes-playback-workflow/raw/master/iTunes%20Playback%20Control.alfredworkflow).
+[here](https://github.com/olivierlefloch/alfred-itunes-playback-workflow/raw/master/iTunes%20Playback%20Control.alfredworkflow).
 
 This workflow is only for
 [Alfred.app Powerpack](http://www.alfredapp.com/powerpack/) users. Below you can
@@ -21,7 +21,7 @@ see a list of commands supported.
 ## Shuffle
 
 <img
-  src="https://raw.github.com/caiogondim/alfred-itunes-playback-workflow/master/img/shuffle-screenshot.png"
+  src="https://raw.github.com/olivierlefloch/alfred-itunes-playback-workflow/master/img/shuffle-screenshot.png"
   alt="Shuffle keyword"
 />
 
@@ -42,6 +42,7 @@ Set the repeat value to **Off**, **All** or **One**.
 
 - Icons by [André Luiz Gollo](http://thenounproject.com/heyandreluiz/)
 - Alfred theme [Feline](https://github.com/caiogondim/alfred-feline-theme)
+- First version [Caio Gondim](https://github.com/caiogondim/alfred-itunes-playback-workflow)
 
 
 # License
@@ -49,6 +50,7 @@ Set the repeat value to **Off**, **All** or **One**.
 The MIT License (MIT)
 
 Copyright (c) 2014 [Caio Gondim](http://caiogondim.com)
+Copyright (c) 2017 [Olivier Le Floch](http://olivier.le-floch.fr)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
